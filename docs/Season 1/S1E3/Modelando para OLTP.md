@@ -19,7 +19,7 @@ Puedes leer el documento original [aquí](https://dl.acm.org/doi/10.1145/320434.
 
 A continuación se muestra un ejemplo de un ERD:
 
-![Ejemplo de ERD](/Season%201/S1E3/images/ERD1.png)
+![Ejemplo de ERD](images/ERD1.png)
 
 Aquí podemos ver dos tipos principales:
 Entidades: Cliente, Artículo

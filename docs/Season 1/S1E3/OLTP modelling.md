@@ -19,7 +19,7 @@ You can read the original paper [here](https://dl.acm.org/doi/10.1145/320434.320
 
 An example of an ERD follows:
 
-![ERD Example](/Season%201/S1E3/images/ERD1.png)
+![ERD Example](images/ERD1.png)
 
 Here we can see two main types:
 Entities: Customer, Item

@@ -30,6 +30,7 @@ Habiendo terminado el bachillerato y matriculado en la universidad (Ingeniería 
 Antes de HTAP, los límites eran claros:
 
 ```mermaid
+
   graph TD
     A[Source Systems-OLTP ] -->|Data| B[ Analytical Systems OLAP]
 ```
