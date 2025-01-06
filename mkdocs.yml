@@ -141,24 +141,24 @@ copyright: |
 nav:
   - Home: index.md
   - Season 1:
-    - EN:
+    - English:
       - "S1E1 Master and transactional data": "Season 1/S1E1/S1E1 One possible classification of data.md"
       - "S1E2 OLAP vs OLTP": "Season 1/S1E2/S1E2-TypeOfSystems.md"
       - "S1E3 Modelling OLTP": "Season 1/S1E3/OLTP modelling.md"
       - "S1E4 Modelling OLAP": "Season 1/S1E4/OlapModelling.md"
       - "S1E5 Lakehouses": "Season 1/S1E5/FromDataWarehousesToDataLakes.md"
-    - ES:
+    - Español:
       - "S1E1 Master and transactional data": "Season 1/S1E1/S1E1 Una posible clasificación de los datos.md"
       - "S1E2 OLAP vs OLTP": "Season 1/S1E2/S1E2-Tipos de sistemas.md"
       - "S1E3 Modelling OLTP": "Season 1/S1E3/Modelando para OLTP.md"
       - "S1E4 Modelling OLAP": "Season 1/S1E4/ModeladoOlap.md"
       - "S1E5 Lakehouses": "Season 1/S1E5/DeDwHastaLakeHouses.md"
   - Season 2:
-    - EN:
+    - English:
       - "S2E1 Keys": "Season 2/S2E1/S2E1 Keys.md"
       - "S2E3 Unified Star Schema": "Season 2/S2E3/UnifiedStarSchema.md"
       - "S2E4 Out of sequence data in Datavault 2.0": "https://github.com/MiguelElGallo/dvsat"
-    - ES:
+    - Español:
       - "S2E1 Keys": "Season 2/S2E1/S2E1 Llaves.md"
       - "S2E3 Unified Star Schema": "Comming Soon"
       - "S2E4 Out of sequence data in Datavault 2.0": "https://github.com/MiguelElGallo/dvsat"
