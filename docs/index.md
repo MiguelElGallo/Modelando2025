@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Welcome to Modelando 2025 Edition 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## A quick Introduction - EN
+Modelando, meaning "modeling" in Spanish. A bilingual repository (English, Spanish) to collaborate on important concepts related to data modeling. 
+I will start with some thoughts and hopefully get some interest and contributions that can influence where to go.
 
-## Commands
+My initial thought for this initiative was approximately five years ago. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+A customer asked me to prepare training for Power BI for a group of controllers (accountants) that had started to use Power BI with great results, but now they wanted to take it to the next level. 
 
-## Project layout
+They gave me good feedback on how I presented Dimension and Facts. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Now I decided to remember how I did it and make it available to everyone, hoping it helps more people and sparks collaboration.  
+
+## Una introducción breve - ES
+Un repositorio bilingüe (inglés, español) para colaborar en conceptos importantes relacionados con el modelado de datos.
+Comenzaré con algunos pensamientos y espero obtener algún interés y contribuciones que puedan influir a dónde ir.
+
+Mi pensamiento inicial para esta iniciativa fue hace aproximadamente cinco años.
+
+Un cliente me pidió que preparara una capacitación sobre Power BI para un grupo de controladores (contadores) que habían comenzado a usar Power BI con excelentes resultados, pero ahora querían llevarlo al siguiente nivel.
+
+Me dieron buenos comentarios sobre cómo presenté "Dimensions" y "Facts".
+
+Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la esperanza de que ayude a más personas y genere colaboración.
+
+
+## Content
+| **Episode** | **English**                                                                                                      | **Spanish**                                                                                                      |
+|-------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| S1E1 Master and transactional data  | [LINK_EN](/docs/Season%201/S1E1/S1E1%20One%20possible%20classification%20of%20data.md) | [LINK_ES](/docs/Season%201/S1E1/S1E1%20Una%20posible%20clasificaci%C3%B3n%20de%20los%20datos.md)  |
+| S1E2 OLAP vs OLTP | [LINK_EN](/docs/Season%201/S1E2/S1E2-TypeOfSystems.md) | [LINK_ES](/docs/Season%201/S1E2/S1E2-Tipos%20de%20sistemas.md)  |
+| S1E3 Modelling OLTP | [LINK_EN](/docs/Season%201/S1E3/OLTP%20modelling.md) | [LINK_ES](/docs/Season%201/S1E3/Modelando%20para%20OLTP.md)  |
+| S1E4 Modelling OLAP | [LINK_EN](/docs/Season%201/S1E4/OlapModelling.md) | [LINK_ES](/docs/Season%201/S1E4/ModeladoOlap.md) |
+| S1E5 Lakehouses | [LINK_EN](/docs/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES](/docs/Season%201/S1E5/DeDwHastaLakeHouses.md) |
+| S2E1 Keys | [LINK_EN](/docs/Season%202/S2E1/S2E1%20Keys.md) | [LINK_ES](/docs/Season%202/S2E1/S2E1%20Llaves.md) |
+| S2E3 Unified Star Schema | [LINK_EN](/docs/Season%202/S2E3/UnifiedStarSchema.md) | [LINK_ES](Comming Soon) |
+| S2E4 Out of sequence data in Datavault 2.0 | [LINK_EN](https://github.com/MiguelElGallo/dvsat) | [LINK_ES](https://github.com/MiguelElGallo/dvsat) |
