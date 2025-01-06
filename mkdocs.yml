@@ -138,5 +138,30 @@ copyright: |
   &copy; 2025 <a href=https://github.com/MiguelElGallo"  target="_blank" rel="noopener">Miguel Peredo Z</a>
 
 nav:
-  - index.md
-  - Tags: tags.md
+  - Home: index.md
+  - Season 1:
+    - "S1E1 Master and transactional data":
+      - "EN": "Season 1/S1E1/S1E1 One possible classification of data.md"
+      - "ES": "Season 1/S1E1/S1E1 Una posible clasificación de los datos.md"
+    - "S1E2 OLAP vs OLTP":
+      - "EN": "Season 1/S1E2/S1E2-TypeOfSystems.md"
+      - "ES": "Season 1/S1E2/S1E2-Tipos de sistemas.md"
+    - "S1E3 Modelling OLTP":
+      - "EN": "Season 1/S1E3/OLTP modelling.md"
+      - "ES": "Season 1/S1E3/Modelando para OLTP.md"
+    - "S1E4 Modelling OLAP":
+      - "EN": "Season 1/S1E4/OlapModelling.md"
+      - "ES": "Season 1/S1E4/ModeladoOlap.md"
+    - "S1E5 Lakehouses":
+      - "EN": "Season 1/S1E5/FromDataWarehousesToDataLakes.md"
+      - "ES": "Season 1/S1E5/DeDwHastaLakeHouses.md"
+  - Season 2:
+    - "S2E1 Keys":
+      - "EN": "Season 2/S2E1/S2E1 Keys.md"
+      - "ES": "Season 2/S2E1/S2E1 Llaves.md"
+    - "S2E3 Unified Star Schema":
+      - "EN": "Season 2/S2E3/UnifiedStarSchema.md"
+      - "ES": "Comming Soon"
+    - "S2E4 Out of sequence data in Datavault 2.0":
+      - "EN": "https://github.com/MiguelElGallo/dvsat"
+      - "ES": "https://github.com/MiguelElGallo/dvsat"

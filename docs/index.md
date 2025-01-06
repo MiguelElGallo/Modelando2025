@@ -25,14 +25,3 @@ Me dieron buenos comentarios sobre cómo presenté "Dimensions" y "Facts".
 Ahora decidí recordar cómo lo hice y ponerlo a disposición de todos, con la esperanza de que ayude a más personas y genere colaboración.
 
 
-## Content
-| **Episode** | **English**                                                                                                      | **Spanish**                                                                                                      |
-|-------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| S1E1 Master and transactional data  | [LINK_EN](/docs/Season%201/S1E1/S1E1%20One%20possible%20classification%20of%20data.md) | [LINK_ES](/docs/Season%201/S1E1/S1E1%20Una%20posible%20clasificaci%C3%B3n%20de%20los%20datos.md)  |
-| S1E2 OLAP vs OLTP | [LINK_EN](/docs/Season%201/S1E2/S1E2-TypeOfSystems.md) | [LINK_ES](/docs/Season%201/S1E2/S1E2-Tipos%20de%20sistemas.md)  |
-| S1E3 Modelling OLTP | [LINK_EN](/docs/Season%201/S1E3/OLTP%20modelling.md) | [LINK_ES](/docs/Season%201/S1E3/Modelando%20para%20OLTP.md)  |
-| S1E4 Modelling OLAP | [LINK_EN](/docs/Season%201/S1E4/OlapModelling.md) | [LINK_ES](/docs/Season%201/S1E4/ModeladoOlap.md) |
-| S1E5 Lakehouses | [LINK_EN](/docs/Season%201/S1E5/FromDataWarehousesToDataLakes.md) | [LINK_ES](/docs/Season%201/S1E5/DeDwHastaLakeHouses.md) |
-| S2E1 Keys | [LINK_EN](/docs/Season%202/S2E1/S2E1%20Keys.md) | [LINK_ES](/docs/Season%202/S2E1/S2E1%20Llaves.md) |
-| S2E3 Unified Star Schema | [LINK_EN](/docs/Season%202/S2E3/UnifiedStarSchema.md) | [LINK_ES](Comming Soon) |
-| S2E4 Out of sequence data in Datavault 2.0 | [LINK_EN](https://github.com/MiguelElGallo/dvsat) | [LINK_ES](https://github.com/MiguelElGallo/dvsat) |
