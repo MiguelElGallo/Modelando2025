@@ -11,22 +11,22 @@ We know from S1E3 the techniques you can use for modeling OLTP (using relational
 ## DataMarts
 A simplified illustration of the independent data mart "Architecture." These standalone analytic silos represent a Datawarehouse that is essentially un-architected. Although nobody pushes to implement this approach, it happens everywhere. Self-service BI tools without proper governance are a catalysator for this approach. 
 
-![DataMarts](/Season%201/S1E4/images/datamarts.png)
+![DataMarts](images/datamarts.png)
 
 ## Inmon (Hub-and-Spoke Corporate Information Factory)
 Here data is extracted from the system of records and lands in a 3NF(Third normal form, see previous seasons) database known as the EDW (Enterprise Data Warehouse). Datamarts can be dimensionally structured but differ from Kimball architecture because they are department centric rather than business process oriented. Users will query the EDW to get the most detailed data; however, subsequent ETL also populate data marts.
 
-![Inmon](/Season%201/S1E4/images/Inmon.png)
+![Inmon](images/Inmon.png)
 
 ## Kimball (Datawarehouse architecture)
 Data in the presentation area must be dimensional, atomic (can have aggregates to improve performance), business process-centric, and adhere to the enterprise data warehouse bus architecture. You must NOT structure the data to individual departments' interpretation of the data.
 
-![Kimball](/Season%201/S1E4/images/Kimball.png)
+![Kimball](images/Kimball.png)
 
 ## Hybrid (Kimball + Inmon)
 There are people that claim is the best of both worlds. 
 
-![Hybrid](/Season%201/S1E4/images/Hybrid.png)
+![Hybrid](images/Hybrid.png)
 
 ## Datavault
 
